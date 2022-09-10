@@ -35,10 +35,12 @@ $ python spotify_generator.py
 * Simply run it without arguments to generate one account and print its credentials to the console
 $ python spotify_generator.py
 ```
+![Example](https://user-images.githubusercontent.com/70216275/189494184-b77b8168-4e46-453a-bf03-6697948e85f1.PNG)
 ```
 * You can also specify the amount of accounts to generate and a file where their credentials will be saved.
 $ python spotify_generator.py -n AMOUNT -o OUTPUT_FILE
 ```
+![Example - 2](https://user-images.githubusercontent.com/70216275/189494253-8fc11d9a-761d-405a-9ab1-2a3f7a5209fa.PNG)
 |Amount|Output File|
 |-------|----------|
 |Account amount to be created|File to save accounts|
@@ -50,8 +52,8 @@ $ python spotify_generator.py -n AMOUNT -o OUTPUT_FILE
 - If you find any malfunction, contact me on Discord: selim#1337
 
 ## Example
-![Example](https://user-images.githubusercontent.com/70216275/189494184-b77b8168-4e46-453a-bf03-6697948e85f1.PNG)
-![Example - 2](https://user-images.githubusercontent.com/70216275/189494253-8fc11d9a-761d-405a-9ab1-2a3f7a5209fa.PNG)
+![image](https://user-images.githubusercontent.com/70216275/189494325-ce3fa3c4-af6c-4a26-a5ec-8ca302ab71d2.png)
+
 
 
 ## Source
