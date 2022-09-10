@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Spotify Account Generator is an Information collection tool written in Python.
+  Spotify Account Generator is an educational application written in Python.
 </p>
 
 ## Description
@@ -50,7 +50,9 @@ $ python spotify_generator.py -n AMOUNT -o OUTPUT_FILE
 - If you find any malfunction, contact me on Discord: selim#1337
 
 ## Example
-![example](https://user-images.githubusercontent.com/70216275/188639065-61e301d1-a370-4e9a-8831-02455715aa0a.jpg)
+![Example](https://user-images.githubusercontent.com/70216275/189494184-b77b8168-4e46-453a-bf03-6697948e85f1.PNG)
+![Example - 2](https://user-images.githubusercontent.com/70216275/189494253-8fc11d9a-761d-405a-9ab1-2a3f7a5209fa.PNG)
+
 
 ## Source
 
