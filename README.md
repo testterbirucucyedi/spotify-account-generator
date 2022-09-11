@@ -52,7 +52,7 @@ $ python spotify_generator.py -n AMOUNT -o OUTPUT_FILE
 - If you find any malfunction, contact me on Discord: selim#1337
 
 ## Example
-![image](https://user-images.githubusercontent.com/70216275/189519850-c31df69f-279c-4549-876a-0dcd04f82d88.png)
+![image](https://user-images.githubusercontent.com/70216275/189519943-7397172c-ecdf-4ca2-b277-483a4d369622.png)
 ![image](https://user-images.githubusercontent.com/70216275/189519862-1c05f377-94be-45e3-9fc8-ecfba0c2909f.png)
 
 
